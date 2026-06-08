@@ -87,7 +87,7 @@
 		<dependency>
 			<groupId>org.apache.fineract</groupId>
 			<artifactId>fineract-client</artifactId>
-			<version>${fineract.version}</version>
+			<version>0.0.1378-f94fc33</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.fineract</groupId>
